@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/SkapeRoomAssets/Scenes/MainMenu.unity
     guid: a63d80c06773a2544a12799164ca0d4d
   - enabled: 1
-    path: Assets/SkapeRoomAssets/Scenes/LevelMenu.unity
-    guid: a24879590d7655344a21ff573eb91fde
-  - enabled: 1
     path: Assets/SkapeRoomAssets/Scenes/Demo1.unity
     guid: b550f6d1f186f2648ac8ece1cabac22a
   m_configObjects: {}

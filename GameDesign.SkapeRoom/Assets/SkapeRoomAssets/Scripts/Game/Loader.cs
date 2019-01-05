@@ -1,10 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Loader : MonoBehaviour
 {
-    public GameObject gameManager { get; set; }
+    public GameObject gameManager;
     
     void Awake()
     {
